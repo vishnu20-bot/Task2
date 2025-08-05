@@ -1,6 +1,8 @@
 # Task2
  Identify phishing characteristics in a suspicious email sample
+ 
 ✅ What I Did
+
 ✅ Created and analyzed a sample phishing email using .eml format.
 
 ✅ Investigated sender spoofing and email domain authenticity using WHOIS lookup.
